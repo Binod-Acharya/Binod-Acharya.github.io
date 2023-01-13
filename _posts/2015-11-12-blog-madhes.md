@@ -1,7 +1,7 @@
 ---
-title: 'Problem in Madhes (Published in The Kathmandu Post, Nov 12, 2015'
+title: 'Problem in Madhes'
 date: 2015-11-12
-permalink: /posts/2015/11/blog_madhes/
+permalink: /posts/2015/11/blog-madhes/
 tags:
   - Nepal
   - Madhes
@@ -37,5 +37,5 @@ At this time, it is worth remembering that addressing the grievances by amending
 (Acharya is a graduate student at Louisiana State University, the US )
 
 
-
+(Published in The Kathmandu Post, Nov 12, 2015)
 https://kathmandupost.com/opinion/2015/11/12/problem-in-madhes
