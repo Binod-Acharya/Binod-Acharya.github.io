@@ -50,3 +50,5 @@ Presentations
 Service and leadership
 ======
 * Peer-reviwer for more than 4 dozen journals including American Journal of Epidemiology, JAMA Pediatrics, JAMA Network Open, Journal of Clinical Oncology, Forontiers in Public Health
+
+<embed src="{{ site.baseurl }}/files/cv_in_pdf.pdf" width="600" height="700" type='application/pdf'> 
