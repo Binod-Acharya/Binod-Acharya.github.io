@@ -1,7 +1,7 @@
 ---
 title: 'Problem in Madhes (Published in The Kathmandu Post, Nov 12, 2015'
 date: 2015-11-12
-permalink: /posts/2012/08/blog_madhes/
+permalink: /posts/2015/11/blog_madhes/
 tags:
   - Nepal
   - Madhes
