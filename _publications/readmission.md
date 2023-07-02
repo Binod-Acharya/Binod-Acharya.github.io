@@ -2,7 +2,7 @@
 title: "Homelessness and hospital readmission"
 collection: publications
 permalink: /publication/readmission
-excerpt: 'This paper is about homelessness and ED readmission.'
+excerpt: 'This paper is about homelessness and emergency department readmission.'
 date: 2022-08-17
 venue: 'American Journal of Preventive Medicine'
 paperurl: 'https://doi.org/10.1016/j.amepre.2022.02.004'
