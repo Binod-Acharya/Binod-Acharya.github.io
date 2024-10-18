@@ -1,4 +1,3 @@
-
 ---
 title: "Social inequalities and COVID-19 mortality between neighborhoods of Bariloche city, Argentina"
 collection: publications
