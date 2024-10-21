@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "CV"
-
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Please download CV here.
+<p>Please download CV here if it does not display below: <a href="{{ site.baseurl }}/files/cv.pdf" download>Download CV</a>.</p>
 
-
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>
+<object data="{{ site.baseurl }}/files/cv.pdf" type="application/pdf" width="100%" height="800">
+  <p>Your browser does not support viewing PDFs inline. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/cv.pdf">Download PDF</a>.</p>
+</object>
 
